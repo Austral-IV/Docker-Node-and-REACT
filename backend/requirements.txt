@@ -1,0 +1,5 @@
+fastapi==0.116.1
+httpx==0.28.1
+kombu==5.5.4
+redis==5.0.6
+Requests==2.32.5
