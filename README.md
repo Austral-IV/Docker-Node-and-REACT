@@ -32,7 +32,7 @@ All integrations work mostly in the same way, for example, hubspot.py:
 
 - create_integration_item_metadata_object: Creates an InteractionItem object, universal format accross integrations. 
 
-- get_items_hubspot: set to fetch contacts and companies. Items are desplayed on the web app as well as the console (weherever `uvicorn main:app --reload` was run)
+- get_items_hubspot: set to fetch contacts and companies. Items are displayed on the web app as well as the console (weherever `uvicorn main:app --reload` was run)
 
 #### Other steps
 
